@@ -2,7 +2,7 @@
 
 > Data Science meets Cricket Intelligence — 17 seasons, 1095 matches, statistically validated insights.
 
-**Live Demo:** https://your-app-name.streamlit.app
+**Live Demo:** ipl-analytics-eubdzwbfk8urzyh6tbktyz.streamlit.app
 
 ---
 
