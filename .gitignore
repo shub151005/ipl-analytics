@@ -1,6 +1,6 @@
 venv/
 __pycache__/
 .ipynb_checkpoints/
-*.csv
-data/
-.env
+matches.csv
+deliveries.csv
+charts/
